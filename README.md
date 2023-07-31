@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/DaCryptoRaccoon/Bitget-Scanner">
+  <img src="https://img.shields.io/github/DaCryptoRaccoon/Bitget-Scanner/blob/main/License">
   <img src="https://img.shields.io/github/languages/top/DaCryptoRaccoon/Bitget-Scanner">
 </p>
 
