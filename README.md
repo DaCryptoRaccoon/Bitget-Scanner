@@ -26,20 +26,11 @@ pip install tabulate colorama plyer requests
 Getting Started
 🚀 Clone the repository or download the script files to your local machine.
 
-📂 Create a .env file in the same directory as the script files and add the following environment variables:
-```bash
-makefile
-Copy code
-API_KEY=your_bitget_api_key
-PASSPHRASE=your_bitget_passphrase
-SECRET_KEY=your_bitget_secret_key
-Replace your_bitget_api_key, your_bitget_passphrase, and your_bitget_secret_key with your actual API credentials from BitGet.
-```
 ⚙️ Run the BitGet Scanner script using the following command:
 
 ```bash
 
-python bitget_scanner.py
+python data.py
 
 ```
 Configuration
