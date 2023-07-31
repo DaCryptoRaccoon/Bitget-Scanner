@@ -32,6 +32,10 @@ Getting Started
 python data.py
 
 ```
+<p align="center">
+  <img src="https://github.com/DaCryptoRaccoon/Bitget-Scanner/blob/main/Display.png" alt="Display Output">
+</p>
+
 Configuration
 Upon running the script, you will be prompted to enter the pairs to monitor. You can enter a comma-separated list of trading pairs or type 'all' to monitor all available pairs.
 
