@@ -45,23 +45,30 @@ Additional User Inputs:
 Enter the price change threshold percentage (threshold_percentage): Set the minimum price change percentage to trigger a trading action.
 Enter your risk tolerance percentage (risk_tolerance): Set the percentage of risk tolerance for stop-loss and take-profit levels.
 Features
+
 Market Data and Liquidity Analysis:
 
 The script fetches real-time market data, including the best bid, best ask, bid liquidity, and ask liquidity for the selected trading pairs.
 It calculates the spread as the difference between the best ask and best bid prices.
 Liquidity is calculated based on the sum of bid and ask liquidity for a given price level.
+
 Trading Action Prediction:
 
 The script predicts the trading action (Buy, Sell, or Hold) based on the percentage change in bid liquidity.
+
 Target Price Calculation:
 
 The target price is calculated based on the predicted trading action and a dynamic range.
+
 Stop-Loss and Take-Profit Calculation:
 
 The script calculates stop-loss and take-profit levels based on the target price and the risk tolerance percentage.
-Sentiment Analysis:
+
+Sentiment Analysis (Not Live):
 
 The script simulates sentiment analysis by generating a random sentiment value (Positive, Neutral, or Negative).
+This function can be used for later machine learning and predictive analysis of the snapshot or live data.
+
 Strong Volume Detection:
 
 The script detects strong buying or selling volumes if the bid or ask liquidity significantly deviates from the average liquidity.
