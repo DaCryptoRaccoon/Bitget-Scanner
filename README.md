@@ -3,7 +3,6 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/github/license/DaCryptoRaccoon/" alt="License">
   <img src="https://img.shields.io/github/languages/top/DaCryptoRaccoon/Bitget-Scanner" alt="Top Language">
 </p>
 
