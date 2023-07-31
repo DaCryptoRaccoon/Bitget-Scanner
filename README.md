@@ -15,7 +15,7 @@
 
 Before running the BitGet Scanner, make sure you have the following requirements installed:
 
-- Python 3.x
+- Python 3.x+
 
 The required Python packages can be installed using the following command:
 
